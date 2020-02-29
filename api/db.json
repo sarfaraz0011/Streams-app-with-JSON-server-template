@@ -1,0 +1,33 @@
+{
+  "streams": [
+    {
+      "title": "Test for one",
+      "description": "Test",
+      "id": 1
+    },
+    {
+      "title": "Title has changed",
+      "description": "Description has changed",
+      "user_id": "114039338586518082883",
+      "id": 2
+    },
+    {
+      "title": "New",
+      "description": "new change",
+      "user_id": "114039338586518082883",
+      "id": 3
+    },
+    {
+      "title": "Programmatic navigations",
+      "description": "Test form",
+      "user_id": "114039338586518082883",
+      "id": 4
+    },
+    {
+      "title": "Test stream 21",
+      "description": "Test",
+      "user_id": "114039338586518082883",
+      "id": 5
+    }
+  ]
+}
